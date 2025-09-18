@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "type": "sc",
+    "questionText": "Testfrage 1: Wählen sie 1",
+    "answers": [
+      { "id": 1, "answerText": "2", "isCorrect": false},
+      { "id": 2, "answerText": "3", "isCorrect": false},
+      { "id": 3, "answerText": "4", "isCorrect": false},
+      { "id": 4, "answerText": "1", "isCorrect": true},
+      { "id": 5, "answerText": "5", "isCorrect": false}
+    ],
+    "hint": "Nummer 1 sc"
+  },
+  {
+    "id": 2,
+    "type": "mc",
+    "questionText": "Wähle alles auser 1",
+    "answers": [
+      { "id": 1, "answerText": "1", "isCorrect": false},
+      { "id": 2, "answerText": "2", "isCorrect": true},
+      { "id": 3, "answerText": "3", "isCorrect": true},
+      { "id": 4, "answerText": "4", "isCorrect": true}
+    ],
+    "hint": "Nummer 2 mc"
+  },
+  {
+    "id": 3,
+    "type": "fi",
+    "questionText": "Gebe 1 Ausgeschrieben an",
+    "answers": [
+      { "id": 1, "answerText": "Eins", "isCorrect": true },
+      { "id": 2, "answerText": "eins", "isCorrect": true }
+    ],
+    "hint": "Nummer 3 fi"
+  },
+  {
+    "id": 4,
+    "type": "sc",
+    "questionText": "Fertig",
+    "answers": [
+      { "id": 1, "answerText": "Nein", "isCorrect": false},
+      { "id": 2, "answerText": "Ja", "isCorrect": true},
+      { "id": 3, "answerText": "Nein", "isCorrect": false},
+      { "id": 4, "answerText": "Nein", "isCorrect": false},
+      { "id": 5, "answerText": "Nein", "isCorrect": false}
+    ],
+    "hint": "Ende!"
+  }
+]

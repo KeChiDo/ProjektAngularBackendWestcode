@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "type": "sc",
+    "questionText": "Was ist 1 + 1",
+    "answers": [
+      { "id": 1, "answerText": "1", "isCorrect": false},
+      { "id": 2, "answerText": "3", "isCorrect": false},
+      { "id": 3, "answerText": "4", "isCorrect": false},
+      { "id": 4, "answerText": "2", "isCorrect": true},
+      { "id": 5, "answerText": "5", "isCorrect": false}
+    ],
+    "hint": "Nummer 1 sc"
+  },
+  {
+    "id": 2,
+    "type": "mc",
+    "questionText": "Was ist NICHT 1 X 1",
+    "answers": [
+      { "id": 1, "answerText": "1", "isCorrect": false},
+      { "id": 2, "answerText": "2", "isCorrect": true},
+      { "id": 3, "answerText": "3", "isCorrect": true},
+      { "id": 4, "answerText": "4", "isCorrect": true}
+    ],
+    "hint": "Nummer 2 mc"
+  },
+  {
+    "id": 3,
+    "type": "fi",
+    "questionText": "Drei Minus Zwei",
+    "answers": [
+      { "id": 1, "answerText": "Eins", "isCorrect": true },
+      { "id": 2, "answerText": "eins", "isCorrect": true }
+    ],
+    "hint": "Nummer 3 fi"
+  },
+  {
+    "id": 4,
+    "type": "sc",
+    "questionText": "Die Lösung auf alle Fragen Lautet?",
+    "answers": [
+      { "id": 1, "answerText": "Handtuch", "isCorrect": false},
+      { "id": 2, "answerText": "42", "isCorrect": true},
+      { "id": 3, "answerText": "Wüste", "isCorrect": false},
+      { "id": 4, "answerText": "Galaxy", "isCorrect": false},
+      { "id": 5, "answerText": "ich", "isCorrect": false}
+    ],
+    "hint": "Ende!"
+  },
+  {
+    "id": 5,
+    "type": "sc",
+    "questionText": "Sind das zuviele Lösungen?",
+    "answers": [
+      { "id": 1, "answerText": "Kuchen", "isCorrect": false },
+      { "id": 2, "answerText": "Ja", "isCorrect": true },
+      { "id": 3, "answerText": "PAPRIKA", "isCorrect": false },
+      { "id": 4, "answerText": "Doener", "isCorrect": false },
+      { "id": 5, "answerText": "Bier", "isCorrect": false },
+      { "id": 6, "answerText": "Hot-Chilli-Souce", "isCorrect": false },
+      { "id": 7, "answerText": "Nur noch Zwei", "isCorrect": false },
+      { "id": 8, "answerText": "Nur noch eine", "isCorrect": false },
+      { "id": 9, "answerText": "Donat", "isCorrect": false }
+    ],
+    "hint": "Nummer 3 fi"
+  },
+  {
+    "id": 6,
+    "type": "sc",
+    "questionText": "Dies ist nun auf jeden fall, zu 100%, ohne abweichungen, und in allen Ehren, Die Letzte Frage des Kataloges, Egal an welcher stelle diese Frage in der Prüfung kommt!",
+    "answers": [
+      { "id": 1, "answerText": "!NEIN!", "isCorrect": false },
+      { "id": 2, "answerText": "!PARTY!", "isCorrect": true }
+    ],
+    "hint": "Nummer 3 fi"
+  }
+]
